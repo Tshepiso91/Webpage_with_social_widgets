@@ -1,0 +1,25 @@
+body{
+  background: url(balloons.jpg) center center fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: Arvo, serif;
+}
+
+.jumbotron{
+  background-color: transparent;
+}
+.jumbotron h1{
+  letter-spacing: 2.5px;
+}
+
+.form-horizontal{
+  margin-top: 50px;
+}
+
+.row{
+  margin-top: 30px;
+}
+
+.col-sm-2{
+  margin-bottom: 10px;
+}
